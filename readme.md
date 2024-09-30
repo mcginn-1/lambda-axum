@@ -86,7 +86,7 @@ The JWT keys will be refreshed automatically, which is useful if this is run as 
 If you run as purely a Lambda function, the firebase keys could be stored in an in-memory db.
 
 
-
+    
 ### DynamoDB UserTable
 
 To create the user table, load the ```AccountUser.json``` file into DynamoDB.
